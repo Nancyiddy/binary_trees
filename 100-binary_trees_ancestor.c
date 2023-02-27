@@ -6,7 +6,7 @@
  * @second: a pointer to the second node to find the ancestor
  *
  * Return: pointer to the ancestor node
- *         NULL if there is no ancestor node
+ *         NULL if there is no ancestor node.
  */
 binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
 				     const binary_tree_t *second)
